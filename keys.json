@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "value": "EXAMPI-KEY-0001",
+      "expires": "2026-12-31"
+    },
+    {
+      "value": "EXAMPI-KEY-TEST",
+      "expires": null
+    }
+  ]
+}
